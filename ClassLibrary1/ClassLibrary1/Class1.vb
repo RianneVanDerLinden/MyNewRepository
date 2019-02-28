@@ -1,4 +1,5 @@
 Public Class Class1
+    ** some random messages **
 
 End Class
 
